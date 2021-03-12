@@ -1,0 +1,13 @@
+﻿C# - sorting a string in C#
+var subString = new String (s.Substring(i, subLength).OrderBy(c => c).ToArray());
+
+to find string are anagrams are not, we can sort them and compare
+
+1. Reading the characters from a String in C#
+
+For quesitons related to Arrays - if the input array is unsorted, try with an alternative solution by making it sorted
+
+Sometimes if we have to use additional space for storing something , think of using original input like array to store that stuff, so we can avoid using extra memory
+
+
+
