@@ -14,6 +14,7 @@ namespace Problems.Test
         [Test]
         public void LengthOfLongestSubstring_Test()
         {
+            //trying test
             var ans = Problems.LengthOfLongestSubstring("aabaab!bb");
             Assert.AreEqual(3, ans);
             ans = Problems.LengthOfLongestSubstring("dvdf");
